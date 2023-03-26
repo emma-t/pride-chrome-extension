@@ -5,7 +5,11 @@
   🌈 Pride Text 🌈 </br> (for GitHub and other websites on Chrome)
   <br>
   <p> &nbsp; </p>
-  <img src="Image of Chrome Extension" alt="Image of Chrome Extension" width="800">
+  <img src="https://raw.githubusercontent.com/emma-t/pride-chrome-extension/main/images/pride%20chrome%201.png" alt="Image of Chrome Extension" width="250">
+  <img src="https://raw.githubusercontent.com/emma-t/pride-chrome-extension/main/images/pride%20chrome%20github%201.png" alt="Image of Chrome Extension" width="400">
+  <img src="https://raw.githubusercontent.com/emma-t/pride-chrome-extension/main/images/pride%20chrome%20youtube%201.png" alt="Image of Chrome Extension" width="100">
+  <img src="https://raw.githubusercontent.com/emma-t/pride-chrome-extension/main/images/pride%20chrome%20youtube%203.png" alt="Image of Chrome Extension" width="400">
+  <img src="https://raw.githubusercontent.com/emma-t/pride-chrome-extension/main/images/pride%20chrome%20youtube%202.png" alt="Image of Chrome Extension" width="400">
 </h1>
 
 ---
@@ -36,7 +40,7 @@
 
 ### Download and use this extension on your local Chrome browser! 🎉 
 
-Download the zip file, extract it, and drag the foler into chrome://extensions while in developer mode.
+Download the zip file, extract it, and drag the folder into chrome://extensions while in developer mode.
 
 Created for [All in Hackathon](https://organize.mlh.io/participants/events/8989-all-in-hackathon-hosted-by-mlh), this Chrome Extension displays the different LGBTQ+ flags in **GitHub** and other Chrome websites! Flags include:
 - Gay pride flag
