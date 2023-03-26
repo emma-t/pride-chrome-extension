@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
- <img src="Logo" alt="Pride Chrome extension logo" width="300">
+ <img src="https://raw.githubusercontent.com/emma-t/pride-chrome-extension/main/chrome%20pride.png" alt="Pride Chrome extension logo" width="200">
   <br>
   Pride Chrome Extension </br> (for GitHub and other websites on Chrome)
   <br>
