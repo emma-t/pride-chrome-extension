@@ -10,7 +10,7 @@
 	
 	textReplaceTag = ['p', 'h1', 'code', 'title', 'dd', 'h2', 'h3', 'h4', 'h5', 'h6', 'yt-formatted-string', 'td', 'th'];
 	
-	textReplaceClass = ['yt-simple-endpoint', 'style-scope ytd-watch-metadata', 'text-dark-gray text-semibold lh-title', 'inline-metadata-item style-scope ytd-video-meta-block', 'style-scope ytd-rich-grid-slim-media', 'yt-simple-endpoint style-scope yt-formatted-string', 'mgAbYb OSrXXb RES9jf IFnjPb', 'wx62f PZPZlf x7XAkb', 'c8d6zd xWMiCc', 'AraNOb', 'LTKOO sY7ric', 'YrbPuc', 'ubHt5c', 'gJBeNe d2F2Td', 'PyJv1b gsmt PZPZlf qRofMd', 'HnYYW'];
+	textReplaceClass = ['yt-simple-endpoint', 'style-scope ytd-watch-metadata', 'text-dark-gray text-semibold lh-title', 'inline-metadata-item style-scope ytd-video-meta-block', 'style-scope ytd-rich-grid-slim-media', 'yt-simple-endpoint style-scope yt-formatted-string', 'mgAbYb OSrXXb RES9jf IFnjPb', 'wx62f PZPZlf x7XAkb', 'c8d6zd xWMiCc', 'AraNOb', 'LTKOO sY7ric', 'YrbPuc', 'ubHt5c', 'gJBeNe d2F2Td', 'PyJv1b gsmt PZPZlf qRofMd', 'HnYYW', 'thumbcaption'];
 	
 	for (e of textReplaceTag){
 		colourTag(e);
