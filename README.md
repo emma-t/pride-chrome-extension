@@ -34,7 +34,9 @@
 
 ---
 
-### Download and use this extension on your local Chrome browser! 🎉
+### Download and use this extension on your local Chrome browser! 🎉 
+
+Download the zip file, extract it, and drag the foler into chrome://extensions while in developer mode.
 
 Created for [All in Hackathon](https://organize.mlh.io/participants/events/8989-all-in-hackathon-hosted-by-mlh), this Chrome Extension displays the different LGBTQ+ flags in **GitHub** and other Chrome websites! Flags include:
 - Gay pride flag
