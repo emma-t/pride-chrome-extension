@@ -1,0 +1,29 @@
+.Box-row .Link--primary{
+    background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+    -webkit-background-clip: text;
+    color: transparent !important;
+}
+
+.final-path{
+    background-image: linear-gradient(to left, rgb(124, 238, 255), pink, white, pink, rgb(124, 238, 255));
+    -webkit-background-clip: text;
+    color: transparent !important;
+}
+
+.Box-header .Link--primary{
+    background-image: linear-gradient(to left, black, purple, white, yellow);
+    -webkit-background-clip: text;
+    color: transparent !important;
+}
+
+.BorderGrid-cell .f4{
+    background-image: linear-gradient(to left, rgb(199, 36, 77), rgb(228, 73, 189), rgb(255, 163, 232), white, rgb(255, 164, 137), rgb(255, 130, 92), rgb(255, 90, 40));
+    -webkit-background-clip: text;
+    color: transparent !important;
+}
+
+.markdown-body {
+    background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+    -webkit-background-clip: text;
+    color: transparent !important;
+}
