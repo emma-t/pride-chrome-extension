@@ -2,7 +2,7 @@
   <br>
  <img src="https://raw.githubusercontent.com/emma-t/pride-chrome-extension/main/chrome%20pride.png" alt="Pride Chrome extension logo" width="200">
   <br>
-  🌈 Pride Chrome Extension 🌈 </br> (for GitHub and other websites on Chrome)
+  🌈 Pride Text 🌈 </br> (for GitHub and other websites on Chrome)
   <br>
   <p> &nbsp; </p>
   <img src="Image of Chrome Extension" alt="Image of Chrome Extension" width="800">
