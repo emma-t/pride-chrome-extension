@@ -1,0 +1,28 @@
+{
+	"manifest_version": 3,
+	"name": "Pride Text",
+	"version": "0.2",
+	"description": "Created for All in Hackathon, this Chrome Extension displays the different LGBTQ+ flags in GitHub and other Chrome websites!",
+	"icons": {
+		"128": "chrome pride.png"
+	},
+	"content_scripts": [
+		{
+			"matches": ["<all_urls>"],
+			"js": ["content.js"],
+			"css": ["content.css"],
+			"run_at": "document_end"
+		}
+	],
+	"permissions": ["activeTab", "scripting"],
+	"action": {
+		"default_icon": "chrome pride.png",
+		"default_title": "Pride Text"
+	},
+	"host_permissions": [
+		"https://github.com/*"
+	],
+	"background": {
+		"service_worker": "background.js"
+	}
+}
