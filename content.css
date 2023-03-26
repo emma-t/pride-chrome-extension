@@ -1,5 +1,5 @@
 .Box-row .Link--primary{
-    background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+    background-image: linear-gradient(to left, violet, rgb(157, 83, 210), rgb(91, 220, 91), rgb(125, 163, 244), yellow, orange, red);
     -webkit-background-clip: text;
     color: transparent !important;
 }
@@ -23,7 +23,7 @@
 }
 
 .markdown-body {
-    background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+    background-image: linear-gradient(to left, violet, rgb(157, 83, 210), rgb(91, 220, 91), rgb(125, 163, 244), yellow, orange, red);
     -webkit-background-clip: text;
     color: transparent !important;
 }
