@@ -10,7 +10,7 @@
 	
 	textReplaceTag = ['p', 'h1', 'code', 'title', 'dd', 'h2', 'h3', 'h4', 'h5', 'h6', 'yt-formatted-string', 'td', 'th'];
 	
-	textReplaceClass = ['yt-simple-endpoint', 'style-scope ytd-watch-metadata', 'text-dark-gray text-semibold lh-title', 'inline-metadata-item style-scope ytd-video-meta-block'];
+	textReplaceClass = ['yt-simple-endpoint', 'style-scope ytd-watch-metadata', 'text-dark-gray text-semibold lh-title', 'inline-metadata-item style-scope ytd-video-meta-block', 'style-scope ytd-rich-grid-slim-media', 'yt-simple-endpoint style-scope yt-formatted-string'];
 	
 	for (e of textReplaceTag){
 		colourTag(e);
